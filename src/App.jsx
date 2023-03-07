@@ -1,7 +1,8 @@
+import socials from "./data";
 
 function App() {
   return (
-    <div></div>
+    <di></di>
   )
 }
 
